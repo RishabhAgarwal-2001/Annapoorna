@@ -1,4 +1,4 @@
-# annaporna
+# Annapoorna
 
 Smart India Hackathon
 
